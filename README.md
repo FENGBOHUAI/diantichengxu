@@ -1,1 +1,4 @@
-# diantichengxu
+# 这是一个电梯程序
+<hr>
+# 当前维护者：edlan，feng
+# 当前进度：已完成定义
